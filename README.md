@@ -51,6 +51,7 @@ The model achieved an accuracy of **88.6%**, indicating good predictive performa
 - `heatmap.png` → Correlation heatmap  
 - `distribution.png` → Stress level distribution  
 - `stress_presentation.pptx` → Project presentation
+- `StressLevelDataset.csv` → Dataset used for analysis
 
  ## Future Improvements
 - Try more advanced models (e.g., Decision Tree, Random Forest)  
