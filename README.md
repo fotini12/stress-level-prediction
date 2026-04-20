@@ -45,3 +45,15 @@ The model achieved an accuracy of **88.6%**, indicating good predictive performa
 - Several factors influence stress levels
 - The model provides a basic but effective prediction
 - Future improvements could include trying more advanced models
+
+## Project Files
+- `stress_analysis.py` → Python code for analysis and model  
+- `heatmap.png` → Correlation heatmap  
+- `distribution.png` → Stress level distribution  
+- `stress_presentation.pptx` → Project presentation
+
+ ## Future Improvements
+- Try more advanced models (e.g., Decision Tree, Random Forest)  
+- Improve feature selection  
+- Perform deeper statistical analysis  
+
