@@ -28,10 +28,10 @@ The target variable is **stress_level**.
 ## Visualization
 
 ### Correlation Heatmap
-(Add your image here later)
+![Heatmap](heatmap.png)
 
 ### Stress Level Distribution
-(Add your image here later)
+![Distribution](distribution.png)
 
 ## Machine Learning Model
 - Data split: 80% training / 20% testing
